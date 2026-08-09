@@ -1,0 +1,22 @@
+{
+  "context": "https://schema.org",
+  "type": "Dataset",
+  "name": "Barcelona 2020/2021 Cross-Source Match Integration Sample",
+  "description": "Curated and integrated La Liga match metadata from StatsBomb Open Data and football.csv/Football-Data.",
+  "creator": {
+    "type": "Person",
+    "name": "Alibek Turuspekov"
+  },
+  "license": [
+    "https://github.com/statsbomb/open-data",
+    "https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "keywords": [
+    "soccer",
+    "football",
+    "La Liga",
+    "Barcelona",
+    "data integration",
+    "reproducibility"
+  ]
+}
