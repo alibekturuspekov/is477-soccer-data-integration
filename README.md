@@ -72,7 +72,6 @@ data/
   processed/
 outputs/
   tables/
-  figures/
 scripts/
 metadata/
 ```
