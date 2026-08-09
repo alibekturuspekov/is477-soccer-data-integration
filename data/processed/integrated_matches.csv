@@ -1,0 +1,20 @@
+match_id	date	home_team	away_team	home_score	away_score	match_week	home_key	away_key	team1	FT	HT	team2	_merge	score_from_statsbomb	score_agrees	barca_home	barca_gf	barca_ga	venue	result	barca_ht_gf	barca_ht_ga	halftime_state
+3773386	10/31/2020	Deportivo AlavÃ©s	Barcelona	1	1	8	deportivo alaves	barcelona	Alaves	1-Jan	Jan-00	Barcelona	both	1-Jan	TRUE	FALSE	1	1	Away	Draw	0	1	Behind
+3773565	1/9/2021	Granada	Barcelona	0	4	18	granada	barcelona	Granada	0-4	0-3	Barcelona	both	0-4	TRUE	FALSE	4	0	Away	Win	3	0	Ahead
+3773457	5/16/2021	Barcelona	Celta Vigo	1	2	37	barcelona	celta vigo	Barcelona	2-Jan	1-Jan	Celta	both	2-Jan	TRUE	TRUE	1	2	Home	Loss	1	1	Level
+3773631	2/7/2021	Real Betis	Barcelona	2	3	22	real betis	barcelona	Betis	3-Feb	Jan-00	Barcelona	both	3-Feb	TRUE	FALSE	3	2	Away	Win	0	1	Behind
+3773665	3/6/2021	Osasuna	Barcelona	0	2	26	osasuna	barcelona	Osasuna	0-2	0-1	Barcelona	both	0-2	TRUE	FALSE	2	0	Away	Win	1	0	Ahead
+3773497	4/10/2021	Real Madrid	Barcelona	2	1	30	real madrid	barcelona	Real Madrid	1-Feb	Feb-00	Barcelona	both	1-Feb	TRUE	FALSE	1	2	Away	Loss	0	2	Behind
+3773660	12/13/2020	Barcelona	Levante UD	1	0	13	barcelona	levante ud	Barcelona	Jan-00	0-0	Levante	both	Jan-00	TRUE	TRUE	1	0	Home	Win	0	0	Level
+3773593	9/27/2020	Barcelona	Villarreal	4	0	3	barcelona	villarreal	Barcelona	Apr-00	Apr-00	Villarreal	both	Apr-00	TRUE	TRUE	4	0	Home	Win	4	0	Ahead
+3773466	10/1/2020	Celta Vigo	Barcelona	0	3	4	celta vigo	barcelona	Celta	0-3	0-1	Barcelona	both	0-3	TRUE	FALSE	3	0	Away	Win	1	0	Ahead
+3773586	4/29/2021	Barcelona	Granada	1	2	33	barcelona	granada	Barcelona	2-Jan	Jan-00	Granada	both	2-Jan	TRUE	TRUE	1	2	Home	Loss	1	0	Ahead
+3773372	5/8/2021	Barcelona	AtlÃ©tico Madrid	0	0	35	barcelona	atletico madrid	Barcelona	0-0	0-0	Ath Madrid	both	0-0	TRUE	TRUE	0	0	Home	Draw	0	0	Level
+3773387	5/11/2021	Levante UD	Barcelona	3	3	36	levante ud	barcelona	Levante	3-Mar	0-2	Barcelona	both	3-Mar	TRUE	FALSE	3	3	Away	Draw	2	0	Ahead
+3773571	12/22/2020	Real Valladolid	Barcelona	0	3	15	real valladolid	barcelona	Valladolid	0-3	0-2	Barcelona	both	0-3	TRUE	FALSE	3	0	Away	Win	2	0	Ahead
+3773428	12/5/2020	CÃ¡diz	Barcelona	2	1	12	cadiz	barcelona	Cadiz	1-Feb	Jan-00	Barcelona	both	1-Feb	TRUE	FALSE	1	2	Away	Loss	0	1	Behind
+3764661	1/6/2021	Athletic Club	Barcelona	2	3	2	athletic club	barcelona	Ath Bilbao	3-Feb	2-Jan	Barcelona	both	3-Feb	TRUE	FALSE	3	2	Away	Win	2	1	Ahead
+3773415	2/21/2021	Barcelona	CÃ¡diz	1	1	24	barcelona	cadiz	Barcelona	1-Jan	Jan-00	Cadiz	both	1-Jan	TRUE	TRUE	1	1	Home	Draw	1	0	Ahead
+3764440	2/24/2021	Barcelona	Elche	3	0	1	barcelona	elche	Barcelona	Mar-00	0-0	Elche	both	Mar-00	TRUE	TRUE	3	0	Home	Win	0	0	Level
+3773689	4/25/2021	Villarreal	Barcelona	1	2	32	villarreal	barcelona	Villarreal	2-Jan	2-Jan	Barcelona	both	2-Jan	TRUE	FALSE	2	1	Away	Win	2	1	Ahead
+3773477	11/7/2020	Barcelona	Real Betis	5	2	9	barcelona	real betis	Barcelona	2-May	1-Jan	Betis	both	2-May	TRUE	TRUE	5	2	Home	Win	1	1	Level
