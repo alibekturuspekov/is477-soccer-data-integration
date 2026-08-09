@@ -1,0 +1,4 @@
+dataset	rows	columns	missing_values	duplicate_rows	integration_match_rate	score_agreement_rate
+StatsBomb curated match extract	19	7	0	0		
+football.csv curated match extract	19	5	0	0		
+Integrated matches	19	24	0	0	1	1
